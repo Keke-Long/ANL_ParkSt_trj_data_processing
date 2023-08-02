@@ -1,5 +1,5 @@
 
-![alt text](images/study area of data set.jpg)
+![alt text](images/study_area_of_data_set.jpg)
 The studied area of the data
 
 Data attributes
